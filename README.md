@@ -17,7 +17,7 @@
     ByteDance Inc.
     <br>
     </br>
-        <a href="">
+        <a href="https://arxiv.org/abs/2308.14749">
         <img src='https://img.shields.io/badge/arXiv-MagicEdit-blue' alt='Paper PDF'>
         </a>
         <a href='https://magic-edit.github.io/'>
