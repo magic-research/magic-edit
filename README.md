@@ -31,6 +31,8 @@
 
 *MagicEdit explicitly disentangles the learning of appearance and motion to achieve high-fidelity and temporally coherent video editing. It supports various editing applications, including video stylization, local editing, video-MagicMix and video outpainting.*
 
+*For avatar-centric video generation and animation, please also check our latest work <a href="https://magic-avatar.github.io/">MagicAvatar</a>!*
+
  
 ## Citing
 If you find our work useful, please consider citing:
